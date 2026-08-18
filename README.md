@@ -4,3 +4,5 @@
 
 ## Alunos:
 _João, Vitor, Pereira, Rodrigues_
+
+<select>Seleção</select>
